@@ -1,4 +1,4 @@
-### Hi there 👋
+### :rocket: Hi there ![config](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
 
 <!--
 - 🔭 I’m currently working on ...
