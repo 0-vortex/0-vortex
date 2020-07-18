@@ -1,0 +1,15 @@
+{
+  "user": {
+    "name": "TED Vortex (Teodor-Eugen Duțulescu)",
+    "email": "rodoeted@yahoo.com",
+    "blog": "https://vortex.name",
+    "company": "@0_vortex",
+    "location": "Bucharest, RO",
+    "hireable": false,
+    "bio": "Boiler Room Polymath"
+  },
+  "pinned": [
+    "https://github.com/0-vortex/dotfiles",
+    "https://github.com/superleap/esdoc-hacker-vision"
+  ]
+}

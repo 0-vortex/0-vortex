@@ -20,11 +20,12 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    
-    - uses: actions/github-script@v1
       
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
+      uses: actions/github-script@v1
+      with:
+        github-token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
       run: |
         const fs = require('fs').promises
         const config = JSON.parse(await fs.readFile('./config.json'))
