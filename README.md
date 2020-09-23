@@ -2,15 +2,11 @@
 
 ![config](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
 
-## TL;DR:
-
-Not enlightened, just broken.
-
-Happiness is reality without expectation.
-
-But there's still no rest for the wicked.
-
-Never forget:
+> Not enlightened, just broken.
+>
+> Happiness is reality without expectation.
+>
+> But there's still no rest for the wicked.
 
 ![Resistance is futile](./static/don-t-argue-with-angry-ninjas.png?raw=true "Don't argue with angry ninjas")
 
@@ -21,7 +17,7 @@ Never forget:
 ## Organisations
 
 - [Xogito](https://www.xogito.com/careers) - remote contractor, 2019/08 - present
-- [Tiamat Tech](https://tiamat.tech) - owner, 2019/06 - present
+- [Tiamat Tech](https://tiamat.tech) - boiler room polymath, 2019/06 - present
 
 ## Social
 
