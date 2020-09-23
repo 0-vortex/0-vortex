@@ -1,30 +1,36 @@
-# TED (Teodor-Eugen Duțulescu) Vortex
+# Zero Vortex FKA TED (Teodor-Eugen Duțulescu)
 
 ![config](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
 
-You're probably here looking for something professionaly cute looking with stickers and whatnot, if so, can't help you so click the links at the bottom of the page.
+## TL;DR:
 
-**VORTEX** is not real person but a method to fight the madness, a process we have to engage in on a day to day basis. There's no time for conversation, no room for mistakes and definitely no viable outcome other than victory.
+Not enlightened, just broken.
 
-DID people pm if you exhausted all possible help and want to try the colony technique. Raelly mean *ALL HELP*.
+Happiness is reality without expectation.
+
+But there's still no rest for the wicked.
+
+Never forget:
+
+![Resistance is futile](./static/don-t-argue-with-angry-ninjas.png?raw=true "Don't argue with angry ninjas")
 
 ## Vision
 
-Strong desire to disrupt through adversarial observation. The mechanics of these ways usually lead to a form of controlled chaos. Applied the right way they further lead to innovation in business critical areas.
+![Never stop dreaming](./static/never-stop-dreaming.jpg?raw=true "Never stop dreaming")
 
 ## Organisations
 
-- [xogito](https://www.xogito.com/careers/) - remote contractor, 2019/08+
-- [tiamat tech](https://tiamat.tech) - owner, 2019/06/+
+- [Xogito](https://www.xogito.com/careers) - remote contractor, 2019/08 - present
+- [Tiamat Tech](https://tiamat.tech) - owner, 2019/06 - present
 
 ## Social
 
-- Linkedin: https://www.linkedin.com/in/tedvortex/
-- Twitter: https://twitter.com/0_vortex
-- Personal site: https://vortex.name/
-- Psychology: https://www.16personalities.com/free-personality-test/bdbc4d20d6087
+- Linkedin: [tedvortex](https://www.linkedin.com/in/tedvortex)
+- Twitter: [0_vortex](https://twitter.com/0_vortex)
+- Website: [vortex.name](https://vortex.name)
+- Psychology: [commander personality](https://www.16personalities.com/free-personality-test/bdbc4d20d6087)
 
-## FOSS
+## Inspired by
 
 - [mathieudutour/mathieudutour](https://github.com/mathieudutour/mathieudutour) - github workflows syncing github profile via the API
 - [katmeister/katmeister](https://github.com/katmeister/katmeister) - layout of profile README and simplicity
