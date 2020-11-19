@@ -1,12 +1,12 @@
 {
   "user": {
     "name": "TED Vortex (Teodor-Eugen Duțulescu)",
-    "email": "rodoeted@yahoo.com",
+    "email": "tiamatu@tiamat.tech",
     "blog": "https://vortex.name",
     "company": "@Tiamat-Tech",
-    "location": "Bucharest, RO",
-    "hireable": false,
-    "bio": "Boiler Room Polymath"
+    "location": "Romania",
+    "hireable": true,
+    "bio": "SSS - Sustainable Software Solutionist"
   },
   "pinned": [
     "https://github.com/0-vortex/dotfiles",
