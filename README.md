@@ -12,7 +12,7 @@
 ```
 
 ![config](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
- ![qotd](https://github.com/0-vortex/0-vortex/workflows/quote/badge.svg)
+ ![quote of the day](https://github.com/0-vortex/0-vortex/workflows/quote%20of%20the%20day/badge.svg)
 
 🚧 WIP
 
@@ -27,6 +27,8 @@
 
 <details>
   <summary>Hard facts about life</summary>
+
+## Hijacked destinies
 
 > 4e6f7420656e6c69676874656e65642c206a7573742062726f6b656e2e
 >
