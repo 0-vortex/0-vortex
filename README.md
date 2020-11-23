@@ -10,6 +10,7 @@
        ╚═══╝   ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 
 ```
+[![last.fm last played](https://img.shields.io/endpoint?url=https://workers.vortex.name/lastfm/endpoint.json)](https://www.last.fm/user/zero-vortex)
 
 ![config](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
  ![quote of the day](https://github.com/0-vortex/0-vortex/workflows/quote%20of%20the%20day/badge.svg)
