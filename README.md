@@ -15,21 +15,27 @@
 ![config](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
  ![quote of the day](https://github.com/0-vortex/0-vortex/workflows/quote%20of%20the%20day/badge.svg)
 
-🚧 WIP
-
-<details>
-    <summary>Programming quote of the day</summary>
-
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-</details>
+### :note: Start a conversation
+
+- Linkedin: [tedvortex](https://www.linkedin.com/in/tedvortex)
+- Twitter: [0_vortex](https://twitter.com/0_vortex)
+- Psychology: [commander personality](https://www.16personalities.com/profiles/bdbc4d20d6087)
+- Email: [ted.vortex@gmail.com](mailto:ted.vortex@gmail.com?subject=Contact%20Request)
+- Phone: [754-345-624](sms:+40754345624)
+
+### :zap: Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### :hubot: Machines only section
 
 <details>
   <summary>Hard facts about life</summary>
-
-## Hijacked destinies
 
 > 4e6f7420656e6c69676874656e65642c206a7573742062726f6b656e2e
 >
@@ -42,28 +48,12 @@
 <details>
   <summary>Memes</summary>
 
-## Methodology
+#### Methodology
 
 ![Resistance is futile](./static/don-t-argue-with-angry-ninjas.png?raw=true "Don't argue with angry ninjas")
 
-## Vision
+#### Vision
 
 ![Never stop dreaming](./static/never-stop-dreaming.jpg?raw=true "Never stop dreaming")
-
-</details>
-
-<details>
-  <summary>Connect</summary>
-
-## Social
-
-- Linkedin: [tedvortex](https://www.linkedin.com/in/tedvortex)
-- Twitter: [0_vortex](https://twitter.com/0_vortex)
-- Psychology: [commander personality](https://www.16personalities.com/profiles/bdbc4d20d6087)
-
-## Text me
-
-- Email: [ted.vortex@gmail.com](mailto:ted.vortex@gmail.com?subject=Contact%20Request)
-- Phone: [754-345-624](sms:+40754345624)
 
 </details>

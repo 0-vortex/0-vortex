@@ -6,7 +6,8 @@ on:
     - cron: "0 2 * * *"
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: siddharth2016/quote-readme@main
