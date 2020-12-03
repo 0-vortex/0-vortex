@@ -1,4 +1,4 @@
-<img src="./static/expedition.gif">
+<img src="./static/expedition.gif" width="100%">
 
 ```json5
 
@@ -115,25 +115,25 @@ Mac                      6 hrs 53 mins       ███████████�
 <details>
   <summary>Memes</summary>
 
-[](./static/meme-adrs.png?raw=true " ")
-[](./static/meme-burnout.png?raw=true " ")
-[](./static/meme-c-plus-plus.png?raw=true " ")
-[](./static/meme-cats.png?raw=true " ")
-[](./static/meme-corona.png?raw=true " ")
-[](./static/meme-devops.png?raw=true " ")
-[](./static/meme-devs.png?raw=true " ")
-[](./static/meme-devs.png?raw=true " ")
-[](./static/meme-devs.png?raw=true " ")
-[](./static/meme-devs.png?raw=true " ")
-[](./static/meme-don-t-argue-with-angry-ninjas.png?raw=true " ")
-[](./static/meme-flutter.png?raw=true " ")
-[](./static/meme-full-it-replacement.png?raw=true " ")
-[](./static/meme-java.png?raw=true " ")
-[](./static/meme-never-stop-dreaming.png?raw=true " ")
-[](./static/meme-otaku.png?raw=true " ")
-[](./static/meme-terminal-designers.png?raw=true " ")
-[](./static/meme-this-is-fine.png?raw=true " ")
-[](./static/meme-threads.png?raw=true " ")
-[](./static/meme-wisdom-of-the-ancients.png?raw=true " ")
+![](./static/meme-adrs.png?raw=true " ")
+![](./static/meme-burnout.png?raw=true " ")
+![](./static/meme-c-plus-plus.png?raw=true " ")
+![](./static/meme-cats.png?raw=true " ")
+![](./static/meme-corona.png?raw=true " ")
+![](./static/meme-devops.png?raw=true " ")
+![](./static/meme-devs.png?raw=true " ")
+![](./static/meme-devs.png?raw=true " ")
+![](./static/meme-devs.png?raw=true " ")
+![](./static/meme-devs.png?raw=true " ")
+![](./static/meme-don-t-argue-with-angry-ninjas.png?raw=true " ")
+![](./static/meme-flutter.png?raw=true " ")
+![](./static/meme-full-it-replacement.png?raw=true " ")
+![](./static/meme-java.png?raw=true " ")
+![](./static/meme-never-stop-dreaming.png?raw=true " ")
+![](./static/meme-otaku.png?raw=true " ")
+![](./static/meme-terminal-designers.png?raw=true " ")
+![](./static/meme-this-is-fine.png?raw=true " ")
+![](./static/meme-threads.png?raw=true " ")
+![](./static/meme-wisdom-of-the-ancients.png?raw=true " ")
 
 </details>
