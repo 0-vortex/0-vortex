@@ -15,6 +15,7 @@
 ![config update](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
  ![quote of the day](https://github.com/0-vortex/0-vortex/workflows/quote%20of%20the%20day/badge.svg)
  ![recent github activity](https://github.com/0-vortex/0-vortex/workflows/recent%20github%20activity/badge.svg)
+ ![wakatime stats](https://github.com/0-vortex/0-vortex/workflows/wakatime%20stats/badge.svg)
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Mortal Kombat II was so popular when it hit the arcades that several of the machines were later installed with deadlock security panels on the back to prevent thieves from ripping the game’s motherboard straight out of the machine and taking it home.❞</i>
