@@ -3,7 +3,7 @@ name: recent github activity
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '7 */4 * * *'
 
 jobs:
   build:

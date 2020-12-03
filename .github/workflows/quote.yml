@@ -3,7 +3,7 @@ name: quote of the day
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "11 2 * * *"
 
 jobs:
   build:
