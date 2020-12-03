@@ -119,8 +119,8 @@ traduceri.online         26 mins             █░░░░░░░░░░�
 ![](./static/meme-never-stop-dreaming.png?raw=true " ")
 ![](./static/meme-otaku.png?raw=true " ")
 ![](./static/meme-terminal-designers.png?raw=true " ")
-![](./static/meme-this-is-fine.png?raw=true " ")
 ![](./static/meme-threads.png?raw=true " ")
+![](./static/meme-this-is-fine.png?raw=true " ")
 ![](./static/meme-wisdom-of-the-ancients.png?raw=true " ")
 
 </details>
