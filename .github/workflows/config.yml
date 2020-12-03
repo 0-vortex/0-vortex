@@ -1,4 +1,4 @@
-name: config
+name: config update
 
 on:
   push:

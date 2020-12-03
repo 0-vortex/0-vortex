@@ -12,14 +12,15 @@
 ```
 [![last.fm last played](https://img.shields.io/endpoint?url=https://workers.vortex.name/lastfm/endpoint.json)](https://www.last.fm/user/zero-vortex)
 
-![config](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
+![config update](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
  ![quote of the day](https://github.com/0-vortex/0-vortex/workflows/quote%20of%20the%20day/badge.svg)
+ ![recent github activity](https://github.com/0-vortex/0-vortex/workflows/recent%20github%20activity/badge.svg)
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-### :note: Start a conversation
+### :crystal_ball: Start a conversation
 
 - Linkedin: [tedvortex](https://www.linkedin.com/in/tedvortex)
 - Twitter: [0_vortex](https://twitter.com/0_vortex)
@@ -32,7 +33,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### :hubot: Machines only section
+### :radioactive: Machines only section
 
 <details>
   <summary>Hard facts about life</summary>
