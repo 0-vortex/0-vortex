@@ -13,3 +13,4 @@ jobs:
       - uses: siddharth2016/quote-readme@main
         with:
           COMMIT_MESSAGE: "chore: update quote of the day"
+          OPTION: funfact

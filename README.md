@@ -38,7 +38,7 @@
 5. ❌ Closed PR [#1](https://github.com/0-vortex/workers-lastfm-shields/pull/1) in [0-vortex/workers-lastfm-shields](https://github.com/0-vortex/workers-lastfm-shields)
 <!--END_SECTION:activity-->
 
-### :radioactive: Machines only section
+### :closed_lock_with_key: Machines only section
 
 <details>
   <summary>Hard facts about life</summary>
