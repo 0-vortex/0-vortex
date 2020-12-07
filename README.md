@@ -32,11 +32,11 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#396](https://github.com/cloudflare/cloudflare-docs/pull/396) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-2. ❌ Closed PR [#1](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/1) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
-3. 🗣 Commented on [#3686](https://github.com/sindresorhus/refined-github/issues/3686) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
-4. 🗣 Commented on [#3686](https://github.com/sindresorhus/refined-github/issues/3686) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
-5. ❌ Closed PR [#1](https://github.com/0-vortex/workers-lastfm-shields/pull/1) in [0-vortex/workers-lastfm-shields](https://github.com/0-vortex/workers-lastfm-shields)
+1. 🎉 Merged PR [#784](https://github.com/pqrs-org/KE-complex_modifications/pull/784) in [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications)
+2. 🗣 Commented on [#784](https://github.com/pqrs-org/KE-complex_modifications/issues/784) in [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications)
+3. 💪 Opened PR [#396](https://github.com/cloudflare/cloudflare-docs/pull/396) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+4. ❌ Closed PR [#1](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/1) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
+5. 🗣 Commented on [#3686](https://github.com/sindresorhus/refined-github/issues/3686) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: Development Activity Metrics
