@@ -32,11 +32,11 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#784](https://github.com/pqrs-org/KE-complex_modifications/pull/784) in [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications)
-2. 🗣 Commented on [#784](https://github.com/pqrs-org/KE-complex_modifications/issues/784) in [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications)
-3. 💪 Opened PR [#396](https://github.com/cloudflare/cloudflare-docs/pull/396) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-4. ❌ Closed PR [#1](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/1) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
-5. 🗣 Commented on [#3686](https://github.com/sindresorhus/refined-github/issues/3686) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
+1. 🎉 Merged PR [#3](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/3) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
+2. ❌ Closed PR [#2](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/2) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
+3. 💪 Opened PR [#3](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/3) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
+4. 🎉 Merged PR [#784](https://github.com/pqrs-org/KE-complex_modifications/pull/784) in [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications)
+5. 🗣 Commented on [#784](https://github.com/pqrs-org/KE-complex_modifications/issues/784) in [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: Development Activity Metrics
