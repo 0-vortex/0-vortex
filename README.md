@@ -42,17 +42,17 @@
 ### :chart_with_upwards_trend: Development Activity Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 286 Contributions in the Year 2020
+> 🏆 292 Contributions in the Year 2020
  > 
 > 📦 114.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 495 Public Repositories 
+> 📜 497 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
