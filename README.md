@@ -42,27 +42,27 @@
 ### :chart_with_upwards_trend: Development Activity Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 222 Contributions in the Year 2020
+> 🏆 227 Contributions in the Year 2020
  > 
 > 📦 130.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
-🌆 Daytime    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
-🌃 Evening    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
-🌙 Night      72 commits     █████████████░░░░░░░░░░░░   51.8%
+🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+🌆 Daytime    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
+🌃 Evening    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.15% 
+🌙 Night      74 commits     █████████████░░░░░░░░░░░░   52.48%
 
 ```
 
