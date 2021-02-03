@@ -18,7 +18,7 @@
  ![wakatime stats](https://github.com/0-vortex/0-vortex/workflows/wakatime%20stats/badge.svg)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first webcam was used at Cambridge University. Its purpose was to monitor a coffee maker so they didn’t waste trips to an empty pot.❞</i>
+<i>❝During IBM Watson’s Jeopardy Game, it stored all 15 terabytes of its knowledge in RAM, including every page of Wikipedia in existence.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### :crystal_ball: Start a conversation
