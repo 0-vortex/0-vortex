@@ -32,8 +32,8 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#802](https://github.com/pqrs-org/KE-complex_modifications/issues/802) in [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications)
-2. ❌ Closed PR [#2](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/2) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
+1. ❗️ Closed issue [#3](https://github.com/0-vortex/dotfiles/issues/3) in [0-vortex/dotfiles](https://github.com/0-vortex/dotfiles)
+2. 🗣 Commented on [#3](https://github.com/0-vortex/dotfiles/issues/3) in [0-vortex/dotfiles](https://github.com/0-vortex/dotfiles)
 3. 💪 Opened PR [#3](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/3) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
 4. 🎉 Merged PR [#784](https://github.com/pqrs-org/KE-complex_modifications/pull/784) in [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications)
 5. 🗣 Commented on [#784](https://github.com/pqrs-org/KE-complex_modifications/issues/784) in [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications)
