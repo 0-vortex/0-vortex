@@ -32,7 +32,7 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/0-vortex/dotfiles/issues/3) in [0-vortex/dotfiles](https://github.com/0-vortex/dotfiles)
+1. 🎉 Merged PR [#4](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/4) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
 2. 🗣 Commented on [#3](https://github.com/0-vortex/dotfiles/issues/3) in [0-vortex/dotfiles](https://github.com/0-vortex/dotfiles)
 3. 💪 Opened PR [#3](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/3) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
 4. 🎉 Merged PR [#784](https://github.com/pqrs-org/KE-complex_modifications/pull/784) in [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications)
