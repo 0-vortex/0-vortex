@@ -46,15 +46,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 130 Contributions in the Year 2021
+> 🏆 124 Contributions in the Year 2021
  > 
-> 📦 136.3 kB Used in Github's Storage 
+> 📦 134.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
