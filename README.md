@@ -18,7 +18,7 @@
  ![wakatime stats](https://github.com/0-vortex/0-vortex/workflows/wakatime%20stats/badge.svg)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
+<i>❝IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### :crystal_ball: Start a conversation
