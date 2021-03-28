@@ -18,7 +18,7 @@
  ![wakatime stats](https://github.com/0-vortex/0-vortex/workflows/wakatime%20stats/badge.svg)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Mortal Kombat II was so popular when it hit the arcades that several of the machines were later installed with deadlock security panels on the back to prevent thieves from ripping the game’s motherboard straight out of the machine and taking it home.❞</i>
+<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### :crystal_ball: Start a conversation
@@ -29,40 +29,30 @@
 - Email: [ted.vortex@gmail.com](mailto:ted.vortex@gmail.com?subject=Contact%20Request)
 - Phone: [754-345-624](sms:+40754345624)
 
-### :zap: Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#396](https://github.com/cloudflare/cloudflare-docs/pull/396) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-2. ❌ Closed PR [#1](https://github.com/0-vortex/eleventy-high-performance-blog-plus/pull/1) in [0-vortex/eleventy-high-performance-blog-plus](https://github.com/0-vortex/eleventy-high-performance-blog-plus)
-3. 🗣 Commented on [#3686](https://github.com/sindresorhus/refined-github/issues/3686) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
-4. 🗣 Commented on [#3686](https://github.com/sindresorhus/refined-github/issues/3686) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
-5. ❌ Closed PR [#1](https://github.com/0-vortex/workers-lastfm-shields/pull/1) in [0-vortex/workers-lastfm-shields](https://github.com/0-vortex/workers-lastfm-shields)
-<!--END_SECTION:activity-->
-
 ### :chart_with_upwards_trend: Development Activity Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 261 Contributions in the Year 2020
+> 🏆 175 Contributions in the Year 2021
  > 
-> 📦 91.0 kB Used in Github's Storage 
+> 📦 134.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 482 Public Repositories
+> 📜 35 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
-
+> 🔑 2 Private Repositories  
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-🌆 Daytime    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-🌃 Evening    11 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-🌙 Night      34 commits     █████████████░░░░░░░░░░░░   51.52%
+🌞 Morning    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
+🌆 Daytime    26 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
+🌃 Evening    30 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
+🌙 Night      81 commits     ████████████░░░░░░░░░░░░░   50.31%
 
 ```
 
@@ -71,18 +61,18 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.16% 
-Markdown                 1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   28.89% 
-JSON                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-TOML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8%
+sh                       24 hrs 8 mins       █████████████████░░░░░░░░   71.49% 
+Terraform                1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
+TypeScript               1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
+JSON                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
+Makefile                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
 
 🐱‍💻 Projects: 
-eleventy-high-performance3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.33% 
-mypinecare.com           1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   27.25% 
-akamai                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
-workers-lastfm-shields   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-traduceri.online         26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.31%
+web                      11 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   35.21% 
+cloudflare-terraform-infr6 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57% 
+api                      6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.08% 
+aws-terraform-infra      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.34% 
+.dotfiles                2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.23%
 
 ```
 
