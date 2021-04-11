@@ -1,13 +1,13 @@
-<img src="./static/expedition.gif" width="100%">
+<img alt="Eye am alien, Eye need space !!!" src="./static/expedition.gif" style="width:100%"/>
 
-```json5
+```shell
 
-       ██╗     █████╗ ███╗   ███╗    ██╗   ██╗ ██████╗ ██████╗ ████████╗███████╗██╗  ██╗
-       ██║    ██╔══██╗████╗ ████║    ██║   ██║██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝╚██╗██╔╝
-       ██║    ███████║██╔████╔██║    ██║   ██║██║   ██║██████╔╝   ██║   █████╗   ╚███╔╝ 
-       ██║    ██╔══██║██║╚██╔╝██║    ╚██╗ ██╔╝██║   ██║██╔══██╗   ██║   ██╔══╝   ██╔██╗ 
-       ██║    ██║  ██║██║ ╚═╝ ██║     ╚████╔╝ ╚██████╔╝██║  ██║   ██║   ███████╗██╔╝ ██╗
-       ╚═╝    ╚═╝  ╚═╝╚═╝     ╚═╝      ╚═══╝   ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+  ██╗    ██╗███████╗     █████╗ ██████╗ ███████╗    ██╗   ██╗ ██████╗ ██████╗ ████████╗███████╗██╗  ██╗
+  ██║    ██║██╔════╝    ██╔══██╗██╔══██╗██╔════╝    ██║   ██║██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝╚██╗██╔╝
+  ██║ █╗ ██║█████╗      ███████║██████╔╝█████╗      ██║   ██║██║   ██║██████╔╝   ██║   █████╗   ╚███╔╝
+  ██║███╗██║██╔══╝      ██╔══██║██╔══██╗██╔══╝      ╚██╗ ██╔╝██║   ██║██╔══██╗   ██║   ██╔══╝   ██╔██╗
+  ╚███╔███╔╝███████╗    ██║  ██║██║  ██║███████╗     ╚████╔╝ ╚██████╔╝██║  ██║   ██║   ███████╗██╔╝ ██╗
+   ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝      ╚═══╝   ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 
 ```
 [![last.fm last played](https://img.shields.io/endpoint?url=https://workers.vortex.name/lastfm/endpoint.json)](https://www.last.fm/user/zero-vortex)
@@ -15,6 +15,8 @@
 ![config update](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
  ![quote of the day](https://github.com/0-vortex/0-vortex/workflows/quote%20of%20the%20day/badge.svg)
  ![wakatime stats](https://github.com/0-vortex/0-vortex/workflows/wakatime%20stats/badge.svg)
+
+![0-vortex Actions](https://api.meercode.io/badge/0-vortex/0-vortex?type=ci-count&lastDay=31)
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
