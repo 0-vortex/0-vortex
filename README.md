@@ -19,7 +19,7 @@
 ![0-vortex Actions](https://api.meercode.io/badge/0-vortex/0-vortex?type=ci-count&lastDay=31)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
+<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### :crystal_ball: Start a conversation
