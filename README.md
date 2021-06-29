@@ -39,9 +39,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 375 Contributions in the Year 2021
+> 🏆 383 Contributions in the Year 2021
  > 
-> 📦 149.1 kB Used in Github's Storage 
+> 📦 149.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -76,22 +76,18 @@ Sunday       62 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-sh                       1 hr 7 mins         ██████████████████████░░░   90.63% 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.37%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      1 hr 7 mins         ██████████████████████░░░   90.63% 
-Atom                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.37%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Terminal                 1 hr 6 mins         ██████████████████████░░░   89.38% 
-work                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.37% 
-.dotfiles                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 28/06/2021
+ Last Updated on 29/06/2021
 <!--END_SECTION:waka-->
 
 ### :closed_lock_with_key: Machines only section
