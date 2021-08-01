@@ -33,13 +33,13 @@
 ### :chart_with_upwards_trend: Development Activity Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-591070%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-591071%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 762 Contributions in the Year 2021
+> 🏆 768 Contributions in the Year 2021
  > 
 > 📦 155.7 kB Used in Github's Storage 
  > 
@@ -53,9 +53,9 @@
 
 ```text
 🌞 Morning    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-🌆 Daytime    110 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
+🌆 Daytime    116 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
 🌃 Evening    132 commits    █████░░░░░░░░░░░░░░░░░░░░   20.18% 
-🌙 Night      318 commits    ████████████░░░░░░░░░░░░░   48.62%
+🌙 Night      312 commits    ████████████░░░░░░░░░░░░░   47.71%
 
 ```
 📅 **I'm Most Productive on Saturday** 
