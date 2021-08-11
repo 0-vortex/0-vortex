@@ -19,7 +19,7 @@
 ![0-vortex Actions](https://api.meercode.io/badge/0-vortex/0-vortex?type=ci-count&lastDay=31)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.❞</i>
+<i>❝According to statista, by 2023, over 50 billion devices will be connected on the internet.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### :crystal_ball: Start a conversation
