@@ -33,7 +33,7 @@
 ### :chart_with_upwards_trend: Development Activity Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-720224%20lines%20of%20code-blue)
 
@@ -98,7 +98,7 @@ admin.opensauced.pizza   58 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/09/2021
+ Last Updated on 06/09/2021
 <!--END_SECTION:waka-->
 
 ### :closed_lock_with_key: Machines only section
