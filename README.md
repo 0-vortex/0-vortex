@@ -19,7 +19,7 @@
 ![0-vortex Actions](https://api.meercode.io/badge/0-vortex/0-vortex?type=ci-count&lastDay=31)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
+<i>❝2012 was the year a hacker group took down Pope John’s website because a food company spent over two hours to deliver as expected. The hacker group was called UGNazi.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### :crystal_ball: Start a conversation
