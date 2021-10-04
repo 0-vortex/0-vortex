@@ -19,7 +19,7 @@
 ![0-vortex Actions](https://api.meercode.io/badge/0-vortex/0-vortex?type=ci-count&lastDay=31)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.❞</i>
+<i>❝Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### :crystal_ball: Start a conversation
