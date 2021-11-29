@@ -24,83 +24,22 @@
 
 ### :crystal_ball: Start a conversation
 
-- Linkedin: [tedvortex](https://www.linkedin.com/in/tedvortex)
+- Polywork: [vortex](https://vortex.name)
 - Twitter: [0_vortex](https://twitter.com/0_vortex)
-- Psychology: [commander personality](https://www.16personalities.com/profiles/bdbc4d20d6087)
+- Psychology: [commander](https://www.16personalities.com/profiles/bdbc4d20d6087)
 - Email: [ted.vortex@gmail.com](mailto:ted.vortex@gmail.com?subject=Contact%20Request)
 - Phone: [754-345-624](sms:+40754345624)
-
-### :chart_with_upwards_trend: Development Activity Metrics
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-878912%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 1,944 Contributions in the Year 2021
- > 
-> 📦 177.7 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 75 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    165 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.21% 
-🌆 Daytime    160 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-🌃 Evening    270 commits    ██████░░░░░░░░░░░░░░░░░░░   26.52% 
-🌙 Night      423 commits    ██████████░░░░░░░░░░░░░░░   41.55%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
-Tuesday      84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-Wednesday    196 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.25% 
-Thursday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Friday       91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
-Saturday     244 commits    ██████░░░░░░░░░░░░░░░░░░░   23.97% 
-Sunday       148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.54%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-sh                       26 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   39.11% 
-TypeScript               14 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   21.91% 
-JavaScript               11 hrs 44 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
-YAML                     3 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Text                     2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.3%
-
-🔥 Editors: 
-WebStorm                 38 hrs 43 mins      ██████████████░░░░░░░░░░░   56.59% 
-Zsh                      26 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   39.11% 
-Atom                     2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.3%
-
-🐱‍💻 Projects: 
-open-sauced-semantic-conf23 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   34.79% 
-spli-web                 16 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   23.43% 
-semantic-release-plus    9 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
-semantic-release-conventi4 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
-semantic-release-docker-m3 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
-
-```
-
-
- Last Updated on 29/11/2021
-<!--END_SECTION:waka-->
+- Stalk: [connect-with.vortex.name](https://connect-with.vortex.name)
 
 ### :closed_lock_with_key: Machines only section
+
+<details>
+  <summary>Wakatime Development Activity Metrics</summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
 
 <details>
   <summary>Hard facts about life</summary>

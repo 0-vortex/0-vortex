@@ -3,7 +3,7 @@ name: config update
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - config.json
 
