@@ -26,19 +26,26 @@
 
 ### 🔐 Machines only section
 
-![config update](https://github.com/0-vortex/0-vortex/workflows/config/badge.svg)
- ![quote of the day](https://github.com/0-vortex/0-vortex/workflows/quote%20of%20the%20day/badge.svg)
- ![wakatime stats](https://github.com/0-vortex/0-vortex/workflows/wakatime%20stats/badge.svg)
-
+![0-vortex Actions](https://api.meercode.io/badge/0-vortex/0-vortex?type=ci-score&lastDay=31)
 ![0-vortex Actions](https://api.meercode.io/badge/0-vortex/0-vortex?type=ci-count&lastDay=31)
 
-
 <details open>
- <summary>Quote of the day</summary>
+  <summary>Quote of the day</summary>
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝A professional typist types fast and types great amount of words daily. If we measure this as distance, than it will become 12.6 miles a day for the fingers of the typist to cover each day.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
+
+</details>
+
+<details>
+  <summary>GitHub Actions</summary>
+
+[![config update](https://github.com/0-vortex/0-vortex/actions/workflows/config.yml/badge.svg)](https://github.com/0-vortex/0-vortex/actions/workflows/config.yml)
+
+[![quote of the day](https://github.com/0-vortex/0-vortex/actions/workflows/quote.yml/badge.svg)](https://github.com/0-vortex/0-vortex/actions/workflows/quote.yml)
+
+[![wakatime stats](https://github.com/0-vortex/0-vortex/actions/workflows/waka.yml/badge.svg)](https://github.com/0-vortex/0-vortex/actions/workflows/waka.yml)
 
 </details>
 
