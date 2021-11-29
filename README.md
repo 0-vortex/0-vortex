@@ -12,6 +12,8 @@
 ```
 [![last.fm last played](https://img.shields.io/endpoint?url=https://workers.vortex.name/lastfm/endpoint.json)](https://www.last.fm/user/zero-vortex)
 
+![Metrics](./static/github-metrics.svg)
+
 ### 📱 Social links
 
 - Polywork: [vortex](https://vortex.name)

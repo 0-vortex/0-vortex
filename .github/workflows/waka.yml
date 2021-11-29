@@ -1,9 +1,12 @@
-name: wakatime stats
+name: WakaTime Stats
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "13 */6 * * *"
+  push:
+    branches:
+      - main
 
 jobs:
   build:

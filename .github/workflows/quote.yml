@@ -1,4 +1,4 @@
-name: quote of the day
+name: Quote of the Day
 
 on:
   workflow_dispatch:
