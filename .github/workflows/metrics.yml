@@ -26,9 +26,9 @@ jobs:
 
           # Achievements
           plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
           plugin_achievements_threshold: S
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
 
           # Activity
           plugin_activity: yes
@@ -36,8 +36,6 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
-
-          # Timestamps
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
 
