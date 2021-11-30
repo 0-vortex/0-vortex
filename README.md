@@ -85,4 +85,4 @@
 
 ### :octocat: GitHub Activity
 
-![Metrics](./static/github-metrics.svg)
+<img src="./static/github-metrics.svg" alt="Metrics" width="100%">
