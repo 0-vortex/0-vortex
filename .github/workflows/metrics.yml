@@ -17,6 +17,7 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           filename: static/github-metrics.*
+          config_padding: 0, 3%
 
           # Options
           user: 0-vortex
@@ -80,3 +81,6 @@ jobs:
           # Stars
           plugin_stars: yes
           plugin_stars_limit: 10
+
+          # Stargazers
+          plugin_stargazers: yes
