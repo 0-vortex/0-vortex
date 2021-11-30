@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           filename: static/github-metrics.*
-          config_padding: 0, 50%
+          config_padding: 0, 20%
           committer_message: "chore: update github metrics [skip ci]"
 
           # Options
@@ -25,7 +25,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Harare
-          config_display: columns
+          config_display: large
 
           # Achievements
           plugin_achievements: yes
@@ -34,7 +34,7 @@ jobs:
           plugin_achievements_display: detailed
 
           # Activity
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
@@ -54,7 +54,7 @@ jobs:
 
           # People
           plugin_people: yes
-          plugin_people_limit: 24
+          plugin_people_limit: 63
           plugin_people_size: 30
           plugin_people_thanks: bdougie, mtfoley
           plugin_people_types: followers, following
@@ -81,7 +81,7 @@ jobs:
           plugin_support: yes
 
           # Stars
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 10
 
           # Stargazers
