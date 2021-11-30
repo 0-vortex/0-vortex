@@ -35,10 +35,10 @@ jobs:
 
           # Activity
           plugin_activity: no
-          plugin_activity_days: 14
+          plugin_activity_days: 30
           plugin_activity_filter: all
           plugin_activity_limit: 5
-          plugin_activity_load: 300
+          plugin_activity_load: 500
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
 
@@ -62,9 +62,9 @@ jobs:
           # WakaTime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
+          plugin_wakatime_days: 30
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs
-          plugin_wakatime_limit: 4
+          plugin_wakatime_limit: 10
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: vortex
 
@@ -86,3 +86,22 @@ jobs:
 
           # Stargazers
           plugin_stargazers: yes
+
+          # Reactions
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_issues: 100
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_days: 30
+          plugin_reactions_display: absolute
+          plugin_reactions_details: count, percentage
+          plugin_reactions_ignored: bot
+
+          # Habits
+          plugin_habits: yes
+          plugin_habits_from: 500
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
