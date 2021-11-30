@@ -18,12 +18,14 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           filename: static/github-metrics.*
           config_padding: 0, 3%
+          committer_message: "chore: update github metrics"
 
           # Options
           user: 0-vortex
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Harare
+          config_display: large
 
           # Achievements
           plugin_achievements: yes
