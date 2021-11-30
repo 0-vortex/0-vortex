@@ -23,27 +23,42 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Harare
+
+          # Achievements
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: S
+
+          # Activity
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
+
+          # Timestamps
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
+
+          # Discussions
           plugin_discussions: yes
+
+          # Isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # Lines
           plugin_lines: yes
+
+          # People
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 30
           plugin_people_thanks: bdougie, mtfoley
           plugin_people_types: followers, following
 
+          # WakaTime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
@@ -52,4 +67,18 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: vortex
 
+          # Traffic
+          plugin_traffic: yes
 
+          # Topics
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+
+          # Support
+          plugin_support: yes
+
+          # Stars
+          plugin_stars: yes
+          plugin_stars_limit: 10
