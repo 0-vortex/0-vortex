@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: siddharth2016/quote-readme@main
         with:
-          COMMIT_MESSAGE: "chore: update quote of the day"
+          COMMIT_MESSAGE: "chore: update quote of the day [skip ci]"
           OPTION: funfact
