@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           filename: static/github-metrics.*
-          config_padding: 0, 30%
+          config_padding: 0, 50%
           committer_message: "chore: update github metrics [skip ci]"
 
           # Options
