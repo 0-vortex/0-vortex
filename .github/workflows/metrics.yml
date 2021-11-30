@@ -54,7 +54,7 @@ jobs:
 
           # People
           plugin_people: yes
-          plugin_people_limit: 63
+          plugin_people_limit: 72
           plugin_people_size: 30
           plugin_people_thanks: bdougie, mtfoley
           plugin_people_types: followers, following
@@ -64,7 +64,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 30
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs
-          plugin_wakatime_limit: 10
+          plugin_wakatime_limit: 5
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: vortex
 
