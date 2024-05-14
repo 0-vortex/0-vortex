@@ -33,7 +33,7 @@
   <summary>Quote of the day</summary>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.❞</i>
+<i>❝The worst breach of U.S. military computers in history happened when someone picked up a memory stick (infected by a foreign intelligence agency) they found in the parking lot and plugged it into their computer, which was attached to United States Central Command.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </details>
